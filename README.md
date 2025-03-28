@@ -1,20 +1,24 @@
 <div id="header" align="center">
   <img src="https://scan-interfax.ru/wp-content/themes/scan/images/logo.svg" width="100"/>
 </div>
-Проект "СКАН" - Поиск публикаций о компаниях.
 
-- Установка зависимостей npm install
+### Описание
+Реальный кейс от компании «СКАН».
+Клиентская часть сервиса для поиска публикаций о компаниях (юридических лицах) в СМИ по ИНН. 
+Серверная часть уже разработана компанией "СКАН".
 
-- Сборка проекта npm run build
+### Установка:
 
-- Запуск проекта локально npm start
+- ***Установка зависимостей*** `npm install`
 
-- Сборка
-npm run build - создает оптимизированную сборку в директории build/
+- ***Запуск проекта локально*** `npm start`
+
+- ***Сборка***
+`npm run build` - ***создает оптимизированную сборку в директории*** build/
 
 ---
 
-Логины и Пароли для входа находятся в файле password
+### Логины и Пароли для входа находятся в файле password
 
 ---
 
@@ -37,3 +41,13 @@ npm run build - создает оптимизированную сборку в 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ViktorKula&theme=react" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKula&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="badges">
+  <a href="https://www.instagram.com/ve.aesir?igsh=bmoxeWMxc200enZo&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=Instagram&logoColor=blue&style=for-the-badge" alt="Youtube Badge"/>
+  </a>  
+</div>
+</div>
