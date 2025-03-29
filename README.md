@@ -50,4 +50,5 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=Instagram&logoColor=blue&style=for-the-badge" alt="Youtube Badge"/>
   </a>  
 </div>
+  <img src="https://komarev.com/ghpvc/?username=ViktorKula&style=flat-square&color=blue" alt=""/>
 </div>
