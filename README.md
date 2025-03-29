@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://scan-interfax.ru/wp-content/themes/scan/images/logo.svg" width="100"/>
+  <img src="https://github.com/ViktorKula/SCAN/blob/main/src/assets/scan_logo_white.svg" width="200"/>
 </div>
 
 ### Описание
